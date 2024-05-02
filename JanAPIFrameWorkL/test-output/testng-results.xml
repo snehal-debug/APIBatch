@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-02T01:45:56Z" name="Suite" finished-at="2024-05-02T01:45:59Z" duration-ms="3371">
+    <groups>
+    </groups>
+    <test started-at="2024-05-02T01:45:56Z" name="Test" finished-at="2024-05-02T01:45:59Z" duration-ms="3371">
+      <class name="Org.testing.testScripts.TC8_RealTimeGetAllReq">
+        <test-method signature="testcase8()[pri:0, instance:Org.testing.testScripts.TC8_RealTimeGetAllReq@25641d39]" started-at="2024-05-01T21:45:58Z" name="testcase8" finished-at="2024-05-01T21:45:59Z" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+      </class> <!-- Org.testing.testScripts.TC8_RealTimeGetAllReq -->
+      <class name="Org.testing.testScripts.TC4_GetParticularRequest">
+        <test-method signature="testcase4()[pri:0, instance:Org.testing.testScripts.TC4_GetParticularRequest@51c668e3]" started-at="2024-05-01T21:45:57Z" name="testcase4" finished-at="2024-05-01T21:45:57Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+      </class> <!-- Org.testing.testScripts.TC4_GetParticularRequest -->
+      <class name="Org.testing.testScripts.TC7_RealTimePostRequest">
+        <test-method signature="testcase7()[pri:0, instance:Org.testing.testScripts.TC7_RealTimePostRequest@3012646b]" started-at="2024-05-01T21:45:58Z" name="testcase7" finished-at="2024-05-01T21:45:58Z" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+      </class> <!-- Org.testing.testScripts.TC7_RealTimePostRequest -->
+      <class name="Org.testing.testScripts.TC9_RealTimeGetParticular">
+        <test-method signature="testcase9()[pri:0, instance:Org.testing.testScripts.TC9_RealTimeGetParticular@4a883b15]" started-at="2024-05-01T21:45:58Z" name="testcase9" finished-at="2024-05-01T21:45:58Z" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase9 -->
+      </class> <!-- Org.testing.testScripts.TC9_RealTimeGetParticular -->
+      <class name="Org.testing.testScripts.TC1_PostRequest">
+        <test-method signature="testcase1()[pri:0, instance:Org.testing.testScripts.TC1_PostRequest@2e3967ea]" started-at="2024-05-01T21:45:56Z" name="testcase1" finished-at="2024-05-01T21:45:57Z" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- Org.testing.testScripts.TC1_PostRequest -->
+      <class name="Org.testing.testScripts.TC3_PostRequestVar">
+        <test-method signature="testcase3()[pri:0, instance:Org.testing.testScripts.TC3_PostRequestVar@6fdbe764]" started-at="2024-05-01T21:45:57Z" name="testcase3" finished-at="2024-05-01T21:45:57Z" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- Org.testing.testScripts.TC3_PostRequestVar -->
+      <class name="Org.testing.testScripts.TC11_RealTimeDeleteReq">
+        <test-method signature="testcase11()[pri:0, instance:Org.testing.testScripts.TC11_RealTimeDeleteReq@5824a83d]" started-at="2024-05-01T21:45:59Z" name="testcase11" finished-at="2024-05-01T21:45:59Z" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase11 -->
+      </class> <!-- Org.testing.testScripts.TC11_RealTimeDeleteReq -->
+      <class name="Org.testing.testScripts.TC5_PutRequest">
+        <test-method signature="testcase5()[pri:0, instance:Org.testing.testScripts.TC5_PutRequest@6221a451]" started-at="2024-05-01T21:45:57Z" name="testcase5" finished-at="2024-05-01T21:45:58Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- Org.testing.testScripts.TC5_PutRequest -->
+      <class name="Org.testing.testScripts.TC10_RealTimePutRequest">
+        <test-method signature="testcase10()[pri:0, instance:Org.testing.testScripts.TC10_RealTimePutRequest@7b36aa0c]" started-at="2024-05-01T21:45:59Z" name="testcase10" finished-at="2024-05-01T21:45:59Z" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+      </class> <!-- Org.testing.testScripts.TC10_RealTimePutRequest -->
+      <class name="Org.testing.testScripts.TC2_GetAllRequest">
+        <test-method signature="testcase2()[pri:0, instance:Org.testing.testScripts.TC2_GetAllRequest@2e6a8155]" started-at="2024-05-01T21:45:57Z" name="testcase2" finished-at="2024-05-01T21:45:57Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- Org.testing.testScripts.TC2_GetAllRequest -->
+      <class name="Org.testing.testScripts.TC6_DeleteRequest">
+        <test-method signature="testcase6()[pri:0, instance:Org.testing.testScripts.TC6_DeleteRequest@52719fb6]" started-at="2024-05-01T21:45:58Z" name="testcase6" finished-at="2024-05-01T21:45:58Z" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- Org.testing.testScripts.TC6_DeleteRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

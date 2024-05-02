@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+	  <class name="Org.testing.testScripts.TC1_PostRequest"/>
+      <class name="Org.testing.testScripts.TC3_PostRequestVar"/>
+      <class name="Org.testing.testScripts.TC4_GetParticularRequest"/>
+      <class name="Org.testing.testScripts.TC2_GetAllRequest"/>
+      <class name="Org.testing.testScripts.TC5_PutRequest"/>
+      <class name="Org.testing.testScripts.TC6_DeleteRequest"/>
+       <class name="Org.testing.testScripts.TC7_RealTimePostRequest"/>
+       <class name="Org.testing.testScripts.TC9_RealTimeGetParticular"/>
+       <class name="Org.testing.testScripts.TC8_RealTimeGetAllReq"/>
+       <class name="Org.testing.testScripts.TC10_RealTimePutRequest"/>
+      <class name="Org.testing.testScripts.TC11_RealTimeDeleteReq"/>
+     
+     
+    
+      
+    
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
